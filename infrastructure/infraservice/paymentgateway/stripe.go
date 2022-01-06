@@ -1,0 +1,3 @@
+package paymentgateway
+
+func Pay() {}
